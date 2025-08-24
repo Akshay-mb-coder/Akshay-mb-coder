@@ -7,7 +7,7 @@
 - 🚀 Currently building small projects  
 - 🌱 Exploring Machine Learning & AI basics  
 - 🎯 Goal: To become a Data Scientist / AI Engineer and build real-world projects
-    My linkedin account-https://www.linkedin.com/in/akshay-mb-0b626b333
+-   My linkedin account-https://www.linkedin.com/in/akshay-mb-0b626b333
 
 
 ## 🌐 Socials:
