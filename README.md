@@ -1,7 +1,13 @@
 ##                                                                           Hi👋 I'm Akshay MB
 
-# 💫 About Me:
-i am Computer science (Data science) Btech student 
+# 💫 About Me: 
+
+- 🎓 2nd-year B.Tech Computer Science (Data Science) student  
+- 💻 Learning Python, C, Git & Data Structures  
+- 🚀 Currently building small projects  
+- 🌱 Exploring Machine Learning & AI basics  
+- 🎯 Goal: To become a Data Scientist / AI Engineer and build real-world projects
+    My linkedin account-https://www.linkedin.com/in/akshay-mb-0b626b333
 
 
 ## 🌐 Socials:
