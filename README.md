@@ -11,7 +11,7 @@
 
 
 ## 🌐 Socials:
-(https://linkedin.com/in/Akshay MB) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshaymb1305@gmail.com) 
+(https://linkedin.com/in/Akshay MB) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
