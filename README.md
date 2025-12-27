@@ -10,8 +10,7 @@
 -   My linkedin account-https://www.linkedin.com/in/akshay-mb-0b626b333
 
 
-## 🌐 Socials:
-Linkdin:https://www.linkedin.com/in/akshay-mb-0b626b333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+## 🌐 Socials
 Mail: akshaymb1305@gmail.com
 
 # 💻 Tech Stack:
