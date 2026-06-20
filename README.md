@@ -2,8 +2,8 @@
 
 # 💫 About Me: 
 
-- 🎓 2nd-year B.Tech Computer Science (Data Science) student  
-- 💻 Learning Python, C, Git & Data Structures  
+- 🎓 3rd-year B.Tech Computer Science (Data Science) student  
+- 💻 Learning Python, java, Git & Data Structures  
 - 🚀 Currently building small projects  
 - 🌱 Exploring Machine Learning & AI basics  
 - 🎯 Goal: To become a Data Scientist / AI Engineer and build real-world projects
