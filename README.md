@@ -2,7 +2,7 @@
 
 # 💫 About Me: 
 
-- 🎓 3rd-year B.Tech Computer Science (Data Science) student  
+- 🎓 3rd-year B.Tech Computer Science (Data Science) student   
 - 💻 Learning Python, java, Git & Data Structures  
 - 🚀 Currently building small projects  
 - 🌱 Exploring Machine Learning & AI basics  
